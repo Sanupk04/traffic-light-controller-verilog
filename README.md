@@ -83,6 +83,4 @@ The waveform shows:
 
 ---
 
-## 📂 GitHub Repository
-(You can add this after you upload the files)  
-👉 [https://github.com/yourusername/4-way-traffic-light-controller](https://github.com/yourusername/4-way-traffic-light-controller)
+
